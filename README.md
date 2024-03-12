@@ -1,1 +1,1 @@
-# Estudos-redes-neurais
+# Estudos redes neurais
